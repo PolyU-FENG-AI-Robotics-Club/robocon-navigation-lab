@@ -4,9 +4,21 @@ Practice mapping, restarting and driving a simulated robot around an obstacle. T
 
 ## Student downloads
 
+### Week 1 — Navigation workshop
+
 1. **Start here.** Download the [main course ZIP][main-course-zip] before class and follow the Ubuntu setup below.
 2. [English course slides (PowerPoint)][english-slides] walk through the main lab and the homework.
 3. **After class.** Download the [vision replay ZIP][vision-replay-zip] for the optional ORB-SLAM3 and cuVSLAM homework.
+
+### Week 2 — Learning materials and assignment
+
+Practise RGB-D target localisation, A* detouring and updating the stopping point while the robot is moving. For the assignment, run the lab and then use the competition field to visit two box stops and the cube-flip zone.
+
+- [English handout and assignment (Word)](https://github.com/PolyU-FENG-AI-Robotics-Club/robocon-navigation-lab/releases/download/v1.0.0/Robocon_2027_Vision_and_Navigation_Lab_English_Rolling_Vision.docx)
+- [Pixel navigation add-on v2 (ZIP)](https://github.com/PolyU-FENG-AI-Robotics-Club/robocon-navigation-lab/releases/download/v1.0.0/Robocon_2027_Pixel_Navigation_Lab_Addon_v2.zip). Install this first for the manual pixel exercises and as a prerequisite for rolling vision.
+- [Rolling vision add-on (ZIP)](https://github.com/PolyU-FENG-AI-Robotics-Club/robocon-navigation-lab/releases/download/v1.0.0/Robocon_2027_Rolling_Vision_Lab_Addon.zip). Use this for the moving recognition exercise.
+
+Materials for later weeks will be added below in teaching order.
 
 [main-course-zip]: https://github.com/PolyU-FENG-AI-Robotics-Club/robocon-navigation-lab/releases/download/v1.0.0/Robocon_Navigation_Lab_Student_Files.zip
 [english-slides]: https://github.com/PolyU-FENG-AI-Robotics-Club/robocon-navigation-lab/releases/download/v1.0.0/Robocon_2027_Navigation_Lab_English_Student_Release.pptx
